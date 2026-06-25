@@ -1,1 +1,1 @@
-# Chatting-application 
+# Chatting-application - java application
