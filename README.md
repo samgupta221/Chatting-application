@@ -1,8 +1,3 @@
-# Chatting-application
-
-Absolutely. Since the repository is **Chatting-application**, here is a professional README you can directly use in `README.md`. It is written to work well for a GitHub portfolio/project submission without inventing specific technologies that aren't visible in the screenshot.
-
-````markdown
 # Chatting Application
 
 A real-time chatting application designed to provide users with a simple and interactive platform for sending and receiving messages.
