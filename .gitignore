@@ -1,0 +1,17 @@
+/Chatting Application/build/
+# Java compiled files
+*.class
+
+# Build output
+build/
+dist/
+target/
+
+# NetBeans local settings
+nbproject/private/
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
