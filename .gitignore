@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Chatting Application/build/
 # Java compiled files
 *.class
@@ -15,3 +16,6 @@ nbproject/private/
 .idea/
 .DS_Store
 Thumbs.db
+=======
+/Chatting Application/build/
+>>>>>>> 3baea97e0f2d720acd1113a27f8081be3e6577e6
