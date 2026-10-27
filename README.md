@@ -41,7 +41,8 @@ Chatting-application/
 │
 ├── .gitignore
 └── README.md
-````
+```
+
 
 ## How It Works
 
@@ -51,4 +52,5 @@ Chatting-application/
 4. Users type and send messages.
 5. Messages are processed by the backend.
 6. The receiver can view the conversation and respond.
+
 
