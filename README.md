@@ -49,12 +49,6 @@ Chatting/
 - Client-Server Architecture
 - VS Code / NetBeans
 
-## Requirements
-
-- JDK 8 or later
-- Visual Studio Code or NetBeans
-- Java Extension Pack (for VS Code)
-
 ## Application Workflow
 
 1. Start the server.
